@@ -1,0 +1,13 @@
+# The reference paper is a copyrighted Elsevier article - do not redistribute.
+# Get it through BITS OpenAthens, as README.md explains.
+fama_french_2012.pdf.pdf
+
+# Jupyter / Python scratch
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Office and OS temp files
+~$*
+.DS_Store
+Thumbs.db
